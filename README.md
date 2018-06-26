@@ -4,3 +4,6 @@
 ## Goals🏆
 here are our thoughts and projects.
 
+### todo list:📝
+* [ ] bot for SDL.
+
